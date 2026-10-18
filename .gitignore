@@ -24,7 +24,6 @@ venv.bak/
 *.db
 *.sqlite
 *.sqlite3
-cachescope.db
 
 # --- Temporary / Extracted Text Dumps ---
 pdf_text.txt
